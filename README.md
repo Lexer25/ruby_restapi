@@ -19,5 +19,6 @@
 после чего ввести в строку браузера "http://localhost:5056/swagger/index.html".
 
 20.05.2026 г.
+
 www.artonit.ru
 www.artsec.ru# ruby_restapi
